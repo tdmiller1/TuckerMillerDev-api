@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Tucker Miller\\source\\repos\\Tuckermilledrev-api\\Tuckermilledrev-api\\Tuckermilledrev-api.csproj": {}
+    "C:\\Workspace\\TuckerMillerDev-api\\Tuckermilledrev-api\\Tuckermilledrev-api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Tucker Miller\\source\\repos\\Tuckermilledrev-api\\Tuckermilledrev-api\\Tuckermilledrev-api.csproj": {
+    "C:\\Workspace\\TuckerMillerDev-api\\Tuckermilledrev-api\\Tuckermilledrev-api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Tucker Miller\\source\\repos\\Tuckermilledrev-api\\Tuckermilledrev-api\\Tuckermilledrev-api.csproj",
+        "projectUniqueName": "C:\\Workspace\\TuckerMillerDev-api\\Tuckermilledrev-api\\Tuckermilledrev-api.csproj",
         "projectName": "Tuckermilledrev-api",
-        "projectPath": "C:\\Users\\Tucker Miller\\source\\repos\\Tuckermilledrev-api\\Tuckermilledrev-api\\Tuckermilledrev-api.csproj",
+        "projectPath": "C:\\Workspace\\TuckerMillerDev-api\\Tuckermilledrev-api\\Tuckermilledrev-api.csproj",
         "packagesPath": "C:\\Users\\Tucker Miller\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Tucker Miller\\source\\repos\\Tuckermilledrev-api\\Tuckermilledrev-api\\obj\\",
+        "outputPath": "C:\\Workspace\\TuckerMillerDev-api\\Tuckermilledrev-api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
