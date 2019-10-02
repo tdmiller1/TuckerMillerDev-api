@@ -1,0 +1,16 @@
+C:\Users\Tucker Miller\source\repos\Tuckermilledrev-api\Tuckermilledrev-api\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\Tucker Miller\source\repos\Tuckermilledrev-api\Tuckermilledrev-api\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\Tucker Miller\source\repos\Tuckermilledrev-api\Tuckermilledrev-api\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\Tucker Miller\source\repos\Tuckermilledrev-api\Tuckermilledrev-api\bin\Debug\netcoreapp2.1\Tuckermilledrev-api.deps.json
+C:\Users\Tucker Miller\source\repos\Tuckermilledrev-api\Tuckermilledrev-api\bin\Debug\netcoreapp2.1\Tuckermilledrev-api.runtimeconfig.json
+C:\Users\Tucker Miller\source\repos\Tuckermilledrev-api\Tuckermilledrev-api\bin\Debug\netcoreapp2.1\Tuckermilledrev-api.runtimeconfig.dev.json
+C:\Users\Tucker Miller\source\repos\Tuckermilledrev-api\Tuckermilledrev-api\bin\Debug\netcoreapp2.1\Tuckermilledrev-api.dll
+C:\Users\Tucker Miller\source\repos\Tuckermilledrev-api\Tuckermilledrev-api\bin\Debug\netcoreapp2.1\Tuckermilledrev-api.pdb
+C:\Users\Tucker Miller\source\repos\Tuckermilledrev-api\Tuckermilledrev-api\obj\Debug\netcoreapp2.1\Tuckermilledrev-api.csprojAssemblyReference.cache
+C:\Users\Tucker Miller\source\repos\Tuckermilledrev-api\Tuckermilledrev-api\obj\Debug\netcoreapp2.1\Tuckermilledrev-api.RazorAssemblyInfo.cache
+C:\Users\Tucker Miller\source\repos\Tuckermilledrev-api\Tuckermilledrev-api\obj\Debug\netcoreapp2.1\Tuckermilledrev-api.RazorAssemblyInfo.cs
+C:\Users\Tucker Miller\source\repos\Tuckermilledrev-api\Tuckermilledrev-api\obj\Debug\netcoreapp2.1\Tuckermilledrev-api.AssemblyInfoInputs.cache
+C:\Users\Tucker Miller\source\repos\Tuckermilledrev-api\Tuckermilledrev-api\obj\Debug\netcoreapp2.1\Tuckermilledrev-api.AssemblyInfo.cs
+C:\Users\Tucker Miller\source\repos\Tuckermilledrev-api\Tuckermilledrev-api\obj\Debug\netcoreapp2.1\Tuckermilledrev-api.RazorTargetAssemblyInfo.cache
+C:\Users\Tucker Miller\source\repos\Tuckermilledrev-api\Tuckermilledrev-api\obj\Debug\netcoreapp2.1\Tuckermilledrev-api.dll
+C:\Users\Tucker Miller\source\repos\Tuckermilledrev-api\Tuckermilledrev-api\obj\Debug\netcoreapp2.1\Tuckermilledrev-api.pdb
